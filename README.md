@@ -74,11 +74,11 @@ Working on projects that apply **machine learning and artificial intelligence to
 
 ## 🤝 Let's Connect
 
-💻 **GitHub:** [github.com/abhyudai-sood]((http://www.linkedin.com/in/abhyudai-sood))
+💻 **GitHub:** [github.com/Abhyudai-sood]((https://github.com/Abhyudai-Sood/Abhyudai-Sood))
 
 💼 **LinkedIn:** [linkedin.com/in/abhyudai-sood](www.linkedin.com/in/abhyudai-sood)
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email: abhyudai.edwards@gmail.com
 
 ---
 
